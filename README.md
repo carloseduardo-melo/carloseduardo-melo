@@ -34,8 +34,8 @@ Aqui estão alguns dos projetos nos quais trabalhei recentemente:
 - **Sistema de Gestão de Tráfego**: Uma aplicação para gerenciar campanhas de anúncios no Facebook e Instagram com integrações diretas à API.
 
 ## 📫 How to Reach Me
-- **Email**: email@example.com
-- **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carlos-melo-18671332a/)
+- **Email**: cadu.c.melo99@gmail.com
+- **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)
 - **GitHub**: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)
 
 ## ⚡ Fun Fact
