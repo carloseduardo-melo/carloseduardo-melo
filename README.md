@@ -253,17 +253,4 @@ I aim to keep building solutions that bring together **technology, education, an
 
 ---
 
-## [Extras Visuais]  
 
-<p align="center">
-  <img src="https://github.com/carloseduardo-melo/carloseduardo-melo/actions/workflows/main.yml/badge.svg" alt="CI Status" />
-  <img src="https://img.shields.io/github/last-commit/carloseduardo-melo/carloseduardo-melo" alt="Last Commit" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carloseduardo-melo&theme=tokyonight&margin-w=8&no-frame=true" alt="trophy" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carloseduardo-melo/carloseduardo-melo/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
