@@ -58,7 +58,7 @@ Atualmente também pesquiso formas de aplicar **IA local (LLMs)** em **educaçã
 - PostgreSQL, MySQL, Prisma  
 - Docker, GitHub Actions, Linux  
 - Cloudflare, VPS, iptables  
-- Integrações Pix/MercadoPago  
+- Integrações Pix/APIs  
 
 ---
 
@@ -72,8 +72,8 @@ Atualmente também pesquiso formas de aplicar **IA local (LLMs)** em **educaçã
 
 ### [Projetos em Destaque]
 - **SIS88** — plataforma de gestão educacional (React + NestJS + Prisma + PostgreSQL) com módulos, integração Pix automática e multi-tenant.  
-- **Genium OT** — servidor OT Tibia ativo há +10 anos, com centenas de jogadores. Desenvolvimento de sistemas em Lua + MySQL, economia virtual balanceada, eventos, integrações de pagamento Pix, otimização de rede/infraestrutura (Linux, Cloudflare, iptables).  
-- **Ecossistema SaaS** — estudo de arquitetura full-stack para aplicações SaaS e monetização, unindo NestJS, Next.js e Cloudflare.  
+- **Genium OT** — servidor OT Tibia ativo há +10 anos, com centenas de jogadores. Desenvolvimento de sistemas em Lua + MySQL, economia virtual balanceada, eventos, integrações técnicas (Pix/APIs) e otimização de rede/infraestrutura (Linux, Cloudflare, iptables).  
+- **Ecossistema SaaS** — estudo de arquitetura full-stack para aplicações SaaS, unindo NestJS, Next.js e Cloudflare.  
 - **Sprint Acadêmico (Data Science)** — análise de vacinação e PIB municipal do Ceará com Python (Pandas/Matplotlib), envolvendo ETL de dados do IBGE e SI-PNI.  
 - **Sistema de Agendamento** — plataforma para pequenos negócios com Node.js, React e integração Google Calendar.  
 - **Sistema de Gestão de Tráfego** — aplicação para gerenciar campanhas de anúncios no Facebook/Instagram com API oficial.  
@@ -147,7 +147,7 @@ I’m currently also researching how to apply **local AI (LLMs)** in **education
 - PostgreSQL, MySQL, Prisma  
 - Docker, GitHub Actions, Linux  
 - Cloudflare, VPS, iptables  
-- Pix/MercadoPago integrations  
+- Pix/API integrations  
 
 ---
 
@@ -161,8 +161,8 @@ I’m currently also researching how to apply **local AI (LLMs)** in **education
 
 ### [Featured Projects]
 - **SIS88** — educational management platform (React + NestJS + Prisma + PostgreSQL) with Pix payment integration and multi-tenant support.  
-- **Genium OT** — OT Tibia server online for 10+ years with hundreds of players. Developed systems in Lua + MySQL, balanced virtual economy, events, Pix payment integrations, and infrastructure optimization (Linux, Cloudflare, iptables).  
-- **SaaS Ecosystem** — full-stack architecture study for SaaS applications and monetization, using NestJS, Next.js, and Cloudflare.  
+- **Genium OT** — OT Tibia server online for 10+ years with hundreds of players. Developed systems in Lua + MySQL, balanced virtual economy, events, technical integrations (Pix/APIs), and infrastructure optimization (Linux, Cloudflare, iptables).  
+- **SaaS Ecosystem** — full-stack architecture study for SaaS applications, using NestJS, Next.js, and Cloudflare.  
 - **Academic Sprint (Data Science)** — analysis of vaccination and municipal GDP in Ceará (Brazil) with Python (Pandas/Matplotlib), including ETL of IBGE and SI-PNI datasets.  
 - **Scheduling System** — appointment platform for small businesses using Node.js, React, and Google Calendar integration.  
 - **Ad Traffic Manager** — application to manage Facebook/Instagram ad campaigns with official API integrations.  
