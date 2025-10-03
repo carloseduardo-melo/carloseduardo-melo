@@ -36,29 +36,53 @@
 
 ### 💻 Sobre mim
 Olá! Eu sou **Carlos Eduardo Melo**, desenvolvedor full-stack apaixonado por tecnologia e inovação.  
-Tenho experiência prática em **projetos reais em produção**, desde sistemas de gestão escolar até servidores de jogos online, sempre buscando unir código limpo, escalabilidade e boa experiência de usuário.  
+Tenho experiência em diversas linguagens, frameworks e infraestrutura, com foco em criar **soluções eficazes, escaláveis e usadas na prática**.  
+Trabalho em projetos que vão desde **plataformas web corporativas** até **servidores de jogos online**, sempre buscando unir **tecnologia, experiência do usuário e visão de negócio**.
 
-Minha missão é criar **soluções que impactam pessoas de verdade** — seja para empresas, comunidades ou projetos pessoais.
+---
 
 ### 🛠 Skills
-- **Back-end:** Node.js, NestJS, Express.js, Prisma, PostgreSQL, MySQL  
-- **Front-end:** React, Next.js, TanStack Router, React Query, Tailwind, Chakra UI  
-- **Linguagens:** JavaScript, TypeScript, Python, PHP, Lua, Java, HTML & CSS  
-- **Infraestrutura:** Docker, GitHub Actions, Linux, Cloudflare, VPS, iptables  
-- **Outros:** APIs REST, pagamentos Pix/MercadoPago, arquitetura multi-tenant
+**Linguagens de Programação**
+- **Python** — automações, APIs REST, ciência de dados  
+- **JavaScript & TypeScript** — front-end e back-end  
+- **Node.js** — APIs rápidas e escaláveis  
+- **PHP** — sistemas web e integrações  
+- **Lua** — scripts para jogos e automação  
+- **Java** — aplicações robustas  
+- **HTML & CSS** — interfaces modernas e responsivas  
+
+**Frameworks & Libraries**
+- **NestJS**, **Next.js**, **Express.js**, **React**  
+- **TanStack Router**, **React Query**, **Zod**  
+- **Bootstrap & Tailwind CSS**, **Chakra UI**  
+
+**Infraestrutura**
+- **PostgreSQL, MySQL, Prisma**  
+- **Docker, GitHub Actions, Linux**  
+- **Cloudflare, VPS, iptables**  
+- **Integrações Pix/MercadoPago**  
+
+---
 
 ### 🌱 O que estou estudando
 - Arquitetura de **microsserviços** e **monorepos**  
 - **Cloud & DevOps** (CI/CD, containers, automações)  
-- **Escalabilidade e segurança** para sistemas web e de jogos
+- Técnicas avançadas de **performance e segurança**  
+- **Streaming e monetização** com NestJS + Next.js  
+
+---
 
 ### 📚 Projetos em Destaque
-- **SIS88** — plataforma de gestão educacional (React + NestJS + Prisma + PostgreSQL) com módulos de alunos, presenças, perfis pedagógicos, pagamentos Pix automáticos e multi-tenant.  
-- **Genium OT** — servidor OT Tibia online há mais de 10 anos, com centenas de players. Desenvolvimento de sistemas em **Lua + MySQL**, economia virtual, eventos, integrações de pagamento Pix e otimização de infraestrutura Linux.  
-- **Convite de Casamento Online** — site interativo com animações, contagem regressiva, lista de presentes com QR Code Pix e design responsivo personalizado.  
-- **Ecossistema estilo “Netflix pirata”** — estudo de arquitetura full-stack para streaming e monetização (NestJS + Next.js + Cloudflare).  
-- **Sprint acadêmico (Data Science)** — análise de vacinação e PIB municipal no Ceará, com ETL de dados do IBGE e SI-PNI usando Python (Pandas/Matplotlib).  
-- **Mini Projetos (LinkedIn)** — 10 projetos curtos em Next.js/NestJS para mostrar skills modernas a recrutadores.  
+- **SIS88** — plataforma de gestão educacional (React + NestJS + Prisma + PostgreSQL) com módulos de usuários, alunos, presenças, perfis pedagógicos, integração Pix automática e multi-tenant.  
+- **Genium OT** — servidor OT Tibia ativo há +10 anos, com centenas de jogadores. Desenvolvimento de sistemas em **Lua + MySQL**, economia virtual balanceada, eventos, integrações de pagamento Pix, otimização de rede/infraestrutura (Linux, Cloudflare, iptables).  
+- **Convite de Casamento Online** — site responsivo com design exclusivo, contagem regressiva, lista de presentes com Pix QR Code e interatividade.  
+- **Ecossistema estilo “Netflix pirata”** — estudo de arquitetura full-stack para streaming e monetização, unindo NestJS, Next.js e Cloudflare.  
+- **Sprint Acadêmico (Data Science)** — análise de vacinação e PIB municipal do Ceará com Python (Pandas/Matplotlib), envolvendo ETL de dados do IBGE e SI-PNI.  
+- **Mini Projetos para LinkedIn** — 10 projetos curtos com Next.js/NestJS para demonstrar habilidades modernas a recrutadores.  
+- **Sistema de Agendamento** — plataforma para pequenos negócios com Node.js, React e integração Google Calendar.  
+- **Sistema de Gestão de Tráfego** — aplicação para gerenciar campanhas de anúncios no Facebook/Instagram com API oficial.  
+
+---
 
 ### 📜 Certificações & Cursos
 - [ ] **AWS Cloud Practitioner** – Amazon Web Services  
@@ -67,13 +91,17 @@ Minha missão é criar **soluções que impactam pessoas de verdade** — seja p
 - [ ] **NestJS & Prisma Mastery** – Udemy  
 - [ ] **React Avançado** – Rocketseat  
 
+---
+
 ### 📫 Contato
 - **Email**: cadu.c.melo99@gmail.com  
 - **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
 - **GitHub**: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
 
+---
+
 ### ⚡ Curiosidade
-Além de programar, sou entusiasta de **jogos online** e adoro criar soluções para comunidades gamer — especialmente servidores customizados de **Tibia**!  
+Além da tecnologia, sou apaixonado por **jogos online**. O **Genium OT**, meu servidor customizado de Tibia, é meu maior laboratório prático, unindo programação, infraestrutura e economia virtual em um ambiente real com centenas de jogadores ativos.  
 
 </details>
 
@@ -84,29 +112,46 @@ Além de programar, sou entusiasta de **jogos online** e adoro criar soluções 
 
 ### 💻 About Me
 Hi! I’m **Carlos Eduardo Melo**, a full-stack developer passionate about technology and innovation.  
-I have real-world experience running **production projects**, from educational management platforms to online game servers, always focusing on clean code, scalability and great user experience.  
+I have hands-on experience in **real-world production projects**, from corporate web platforms to online game servers, always aiming for **scalable, efficient solutions** with focus on clean code, UX, and product vision.  
 
-My mission is to build **solutions that make a real impact** — whether for companies, communities or personal projects.
+---
 
 ### 🛠 Skills
-- **Back-end:** Node.js, NestJS, Express.js, Prisma, PostgreSQL, MySQL  
-- **Front-end:** React, Next.js, TanStack Router, React Query, Tailwind, Chakra UI  
-- **Languages:** JavaScript, TypeScript, Python, PHP, Lua, Java, HTML & CSS  
-- **Infrastructure:** Docker, GitHub Actions, Linux, Cloudflare, VPS, iptables  
-- **Other:** REST APIs, Pix/MercadoPago payments, multi-tenant architectures  
+**Programming Languages**
+- **Python**, **JavaScript/TypeScript**, **Node.js**, **PHP**, **Lua**, **Java**, **HTML & CSS**  
+
+**Frameworks & Libraries**
+- **NestJS**, **Next.js**, **Express.js**, **React**  
+- **TanStack Router**, **React Query**, **Zod**  
+- **Bootstrap, Tailwind CSS, Chakra UI**  
+
+**Infrastructure**
+- **PostgreSQL, MySQL, Prisma**  
+- **Docker, GitHub Actions, Linux**  
+- **Cloudflare, VPS, iptables**  
+- **Pix/MercadoPago integrations**  
+
+---
 
 ### 🌱 What I’m Learning
 - **Microservices** and **monorepos**  
 - **Cloud & DevOps** (CI/CD, containers, automation)  
-- **Scalability & security** for web and gaming systems  
+- Advanced **performance & security** techniques  
+- **Streaming and monetization** with NestJS + Next.js  
+
+---
 
 ### 📚 Featured Projects
-- **SIS88** — educational management platform (React + NestJS + Prisma + PostgreSQL) with modules for students, attendance, pedagogic profiles, Pix payments and multi-tenant architecture.  
-- **Genium OT** — OT Tibia server online for 10+ years with hundreds of players. Developed systems in **Lua + MySQL**, virtual economy, events, Pix payments integration and Linux server optimization.  
-- **Wedding Invitation Website** — interactive site with animations, countdown, Pix gift list and custom responsive design.  
-- **“Pirate Netflix” Ecosystem** — study of a full-stack architecture for streaming and monetization (NestJS + Next.js + Cloudflare).  
-- **Academic Sprint (Data Science)** — analysis of vaccination data and municipal GDP in Ceará, Brazil, using Python (Pandas/Matplotlib).  
-- **Mini Projects (LinkedIn)** — 10 short projects in Next.js/NestJS to showcase modern skills to recruiters.  
+- **SIS88** — educational management platform (React + NestJS + Prisma + PostgreSQL) with modules for users, students, attendance, pedagogic profiles, automatic Pix payments and multi-tenant structure.  
+- **Genium OT** — OT Tibia server online for 10+ years with hundreds of players. Developed systems in **Lua + MySQL**, virtual economy, events, Pix payment integrations and Linux networking optimization.  
+- **Wedding Invitation Website** — interactive, responsive design with countdown, Pix gift list and animations.  
+- **“Pirate Netflix” Ecosystem** — full-stack architecture study for streaming and monetization (NestJS + Next.js + Cloudflare).  
+- **Academic Sprint (Data Science)** — analysis of vaccination data and municipal GDP in Ceará (Brazil), using Python (Pandas/Matplotlib).  
+- **Mini Projects for LinkedIn** — 10 short Next.js/NestJS projects to showcase skills to recruiters.  
+- **Scheduling System** — appointment platform with Node.js, React and Google Calendar integration.  
+- **Ad Traffic Manager** — application for Facebook/Instagram ad campaign management with official APIs.  
+
+---
 
 ### 📜 Certifications & Courses
 - [ ] **AWS Cloud Practitioner** – Amazon Web Services  
@@ -115,13 +160,17 @@ My mission is to build **solutions that make a real impact** — whether for com
 - [ ] **NestJS & Prisma Mastery** – Udemy  
 - [ ] **Advanced React** – Rocketseat  
 
+---
+
 ### 📫 How to Reach Me
 - **Email**: cadu.c.melo99@gmail.com  
 - **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
 - **GitHub**: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
 
+---
+
 ### ⚡ Fun Fact
-Besides coding, I’m an **online gaming enthusiast** and love building solutions for gaming communities — especially custom **Tibia** servers!  
+Besides coding, I’m an **online gaming enthusiast**. My OT server **Genium OT** has been my living lab for years — combining coding, infrastructure and virtual economy management in a production environment with hundreds of active players.  
 
 </details>
 
