@@ -37,19 +37,8 @@
 Olá! Eu sou **Carlos Eduardo Melo**, um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias linguagens e frameworks. Acredito no poder da tecnologia para transformar realidades e estou sempre aprendendo. Minha missão é criar **soluções eficazes e escaláveis** para problemas complexos.
 
 ### 🛠 Skills
-
-**Linguagens de Programação**
-- **Python** — automações, APIs REST, ciência de dados  
-- **JavaScript** — front-end e back-end  
-- **Node.js** — APIs rápidas e escaláveis  
-- **PHP** — back-end web, sistemas dinâmicos  
-- **Lua** — scripts de jogo e automação  
-- **Java** — aplicações robustas  
-- **HTML & CSS** — interfaces modernas e responsivas  
-
-**Frameworks & Libraries**
-- **NestJS**, **Next.js**, **Express.js**, **React**  
-- **Bootstrap & Tailwind CSS**
+- **Python**, **JavaScript**, **Node.js**, **PHP**, **Lua**, **Java**, **HTML & CSS**  
+- **NestJS**, **Next.js**, **Express.js**, **React**, **Bootstrap**, **Tailwind CSS**
 
 ### 🌱 O que estou estudando
 - Arquitetura de **microsserviços**  
@@ -68,8 +57,6 @@ Olá! Eu sou **Carlos Eduardo Melo**, um desenvolvedor apaixonado por tecnologia
 - [ ] **NestJS & Prisma Mastery** – Udemy  
 - [ ] **React Avançado** – Rocketseat  
 
-*(adicione aqui seus certificados reais ou links de verificação)*  
-
 ### 📫 Contato
 - **Email**: cadu.c.melo99@gmail.com  
 - **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
@@ -80,25 +67,15 @@ Sou entusiasta de jogos online e adoro criar soluções para comunidades gamer �
 
 ---
 
-## 🇺🇸 English  
+<details>
+  <summary>🇺🇸 English (click to expand)</summary>
 
 ### 💻 About Me
 Hi! I’m **Carlos Eduardo Melo**, a developer passionate about technology and innovation. I have experience with multiple languages and frameworks. I believe in the power of technology to transform lives and I’m always learning. My mission is to create **effective, scalable solutions** for complex problems.
 
 ### 🛠 Skills
-
-**Programming Languages**
-- **Python** — automation, REST APIs, data science  
-- **JavaScript** — front-end and back-end  
-- **Node.js** — scalable APIs  
-- **PHP** — web back-end, APIs  
-- **Lua** — game scripting and automation  
-- **Java** — robust applications  
-- **HTML & CSS** — modern UIs  
-
-**Frameworks & Libraries**
-- **NestJS**, **Next.js**, **Express.js**, **React**  
-- **Bootstrap & Tailwind CSS**
+- **Python**, **JavaScript**, **Node.js**, **PHP**, **Lua**, **Java**, **HTML & CSS**  
+- **NestJS**, **Next.js**, **Express.js**, **React**, **Bootstrap**, **Tailwind CSS**
 
 ### 🌱 What I’m Learning
 - **Microservices architecture**  
@@ -117,8 +94,6 @@ Hi! I’m **Carlos Eduardo Melo**, a developer passionate about technology and i
 - [ ] **NestJS & Prisma Mastery** – Udemy  
 - [ ] **Advanced React** – Rocketseat  
 
-*(replace with real certificates or verification links)*  
-
 ### 📫 How to Reach Me
 - **Email**: cadu.c.melo99@gmail.com  
 - **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
@@ -126,6 +101,8 @@ Hi! I’m **Carlos Eduardo Melo**, a developer passionate about technology and i
 
 ### ⚡ Fun Fact
 I’m an online-games enthusiast and love building tools for gaming communities — especially custom **Tibia** servers!  
+
+</details>
 
 ---
 
