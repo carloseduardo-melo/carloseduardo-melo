@@ -42,6 +42,15 @@ Olá! Eu sou **Carlos Eduardo Melo**, um desenvolvedor apaixonado por tecnologia
 - **Servidor OT Tibia** — customizações em **Lua** para servidores OT  
 - **Gestão de Tráfego** — campanhas Facebook/Instagram com APIs oficiais  
 
+### 📜 Certificações & Cursos
+- [ ] **AWS Cloud Practitioner** – Amazon Web Services  
+- [ ] **Docker & Kubernetes Fundamentals** – Udemy  
+- [ ] **JavaScript Moderno (ES6+)** – Alura  
+- [ ] **NestJS & Prisma Mastery** – Udemy  
+- [ ] **React Avançado** – Rocketseat  
+
+*(adicione aqui seus certificados reais ou links de verificação)*  
+
 ### 📫 Contato
 - **Email**: cadu.c.melo99@gmail.com  
 - **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
@@ -81,6 +90,15 @@ Hi! I’m **Carlos Eduardo Melo**, a developer passionate about technology and i
 - **Scheduling System** — platform with Node.js, **NestJS**, **React**, Google Calendar  
 - **Tibia OT Server** — **Lua** scripting & customization  
 - **Ad Traffic Manager** — Facebook/Instagram campaigns with APIs  
+
+### 📜 Certifications & Courses
+- [ ] **AWS Cloud Practitioner** – Amazon Web Services  
+- [ ] **Docker & Kubernetes Fundamentals** – Udemy  
+- [ ] **Modern JavaScript (ES6+)** – Alura  
+- [ ] **NestJS & Prisma Mastery** – Udemy  
+- [ ] **Advanced React** – Rocketseat  
+
+*(replace with real certificates or verification links)*  
 
 ### 📫 How to Reach Me
 - **Email**: cadu.c.melo99@gmail.com  
