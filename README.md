@@ -6,6 +6,11 @@
 
 ---
 
+## [Highlights]  
+10+ anos rodando Genium OT | Construindo SIS88 SaaS multi-tenant | AI aplicada em Educação & Games  
+
+---
+
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=carloseduardo-melo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -30,6 +35,14 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="email" />
   </a>
 </p>
+
+---
+
+## [Projetos em Destaque]  
+
+- [Genium OT](https://geniumot.com) — servidor OT Tibia online há +10 anos, com centenas de jogadores ativos.  
+- **SIS88 (privado)** — plataforma SaaS de gestão educacional multi-tenant (React + NestJS + Prisma + PostgreSQL).  
+- **Academic Sprint (privado)** — análise de dados (vacinação + PIB) com Python/Pandas e ETL do IBGE + SI-PNI.  
 
 ---
 
@@ -66,7 +79,7 @@ Atualmente também pesquiso formas de aplicar **IA local (LLMs)** em **educaçã
 - Arquitetura de microsserviços e monorepos  
 - Cloud & DevOps (CI/CD, containers, automações)  
 - Técnicas avançadas de performance e segurança  
-- SaaS e monetização com NestJS + Next.js  
+- SaaS com NestJS + Next.js  
 
 ---
 
@@ -87,15 +100,17 @@ Atualmente também pesquiso formas de aplicar **IA local (LLMs)** em **educaçã
 
 ---
 
+### [Minha Jornada]
+Comecei programando em **Lua** para jogos online.  
+O que era hobby virou um laboratório prático: servidores customizados, otimização de infraestrutura e comunidades reais.  
+Hoje aplico esse aprendizado em **SaaS, cloud e IA aplicada em educação e games**.  
+
+---
+
 ### [Contato]
 - Email: cadu.c.melo99@gmail.com  
 - LinkedIn: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
 - GitHub: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
-
----
-
-### [Curiosidade]
-Além da tecnologia, sou apaixonado por **jogos online**. O **Genium OT**, meu servidor customizado de Tibia, é meu maior laboratório prático, unindo programação, infraestrutura e economia virtual em um ambiente real com centenas de jogadores ativos.  
 
 ---
 
@@ -155,7 +170,7 @@ I’m currently also researching how to apply **local AI (LLMs)** in **education
 - Microservices and monorepos  
 - Cloud & DevOps (CI/CD, containers, automation)  
 - Advanced performance and security techniques  
-- SaaS and monetization with NestJS + Next.js  
+- SaaS with NestJS + Next.js  
 
 ---
 
@@ -176,15 +191,17 @@ I’m currently also researching how to apply **local AI (LLMs)** in **education
 
 ---
 
+### [My Journey]
+I started coding in **Lua** for online games.  
+What began as a hobby turned into a practical lab: custom servers, infrastructure optimization, and real communities.  
+Today I apply this learning in **SaaS, cloud, and AI applied to education and gaming**.  
+
+---
+
 ### [How to Reach Me]
 - Email: cadu.c.melo99@gmail.com  
 - LinkedIn: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
 - GitHub: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
-
----
-
-### [Fun Fact]
-Beyond technology, I’m passionate about **online games**. My custom OT server **Genium OT** has been my biggest practical lab, combining coding, infrastructure, and virtual economy management in a real environment with hundreds of active players.  
 
 ---
 
@@ -232,4 +249,21 @@ I aim to keep building solutions that bring together **technology, education, an
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white" />
+</p>
+
+---
+
+## [Extras Visuais]  
+
+<p align="center">
+  <img src="https://github.com/carloseduardo-melo/carloseduardo-melo/actions/workflows/main.yml/badge.svg" alt="CI Status" />
+  <img src="https://img.shields.io/github/last-commit/carloseduardo-melo/carloseduardo-melo" alt="Last Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carloseduardo-melo&theme=tokyonight&margin-w=8&no-frame=true" alt="trophy" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carloseduardo-melo/carloseduardo-melo/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
