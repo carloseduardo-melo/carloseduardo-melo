@@ -69,9 +69,8 @@ Atualmente também pesquiso formas de aplicar **IA local (LLMs)** em **educaçã
 ---
 
 ### 📚 Projetos em Destaque
-- **SIS88** — plataforma de gestão educacional (React + NestJS + Prisma + PostgreSQL) com módulos de usuários, alunos, presenças, perfis pedagógicos, integração Pix automática e multi-tenant.  
+- **SIS88** — plataforma de gestão educacional (React + NestJS + Prisma + PostgreSQL) com módulos, integração Pix automática e multi-tenant.  
 - **Genium OT** — servidor OT Tibia ativo há +10 anos, com centenas de jogadores. Desenvolvimento de sistemas em **Lua + MySQL**, economia virtual balanceada, eventos, integrações de pagamento Pix, otimização de rede/infraestrutura (Linux, Cloudflare, iptables).  
-- **Convite de Casamento Online** — site responsivo com design exclusivo, contagem regressiva, lista de presentes com Pix QR Code e interatividade.  
 - **Ecossistema SaaS** — estudo de arquitetura full-stack para aplicações SaaS e monetização, unindo NestJS, Next.js e Cloudflare.  
 - **Sprint Acadêmico (Data Science)** — análise de vacinação e PIB municipal do Ceará com Python (Pandas/Matplotlib), envolvendo ETL de dados do IBGE e SI-PNI.  
 - **Sistema de Agendamento** — plataforma para pequenos negócios com Node.js, React e integração Google Calendar.  
@@ -79,12 +78,10 @@ Atualmente também pesquiso formas de aplicar **IA local (LLMs)** em **educaçã
 
 ---
 
-### 📜 Certificações & Cursos
-- [ ] **AWS Cloud Practitioner** – Amazon Web Services  
-- [ ] **Docker & Kubernetes Fundamentals** – Udemy  
-- [ ] **JavaScript Moderno (ES6+)** – Alura  
-- [ ] **NestJS & Prisma Mastery** – Udemy  
-- [ ] **React Avançado** – Rocketseat  
+### 📊 Impacto em Números
+- **Genium OT**: +10 anos online, centenas de jogadores ativos diariamente, milhares de transações virtuais por semana.  
+- **SIS88**: plataforma multi-tenant aplicada em escolas, com automação de **pagamentos via Pix QR Code** e controle pedagógico.  
+- **Projetos pessoais**: sistemas SaaS, convites digitais e ferramentas de automação em produção real.  
 
 ---
 
@@ -108,13 +105,16 @@ Atualmente, venho explorando **aplicações práticas de IA** em meus projetos:
 
 ---
 
+### 🌎 Visão de Futuro
+Quero continuar desenvolvendo soluções que unam **tecnologia, educação e entretenimento**, explorando o impacto real de **IA local** e **arquiteturas SaaS** em comunidades digitais.  
+
+---
+
 ### 🎯 Roadmap
-- Lançar **módulos avançados do SIS88** (financeiro e relatórios).  
 - Migrar sistemas do **Genium OT** para infraestrutura mais resiliente (multi-vps e load balancing).  
 - Desenvolver **MVP do Ecossistema SaaS** com autenticação, billing e painel multi-tenant.  
 - Evoluir em **Cloud (AWS/GCP)** com foco em escalabilidade.  
 - Publicar novos **projetos open-source** em NestJS/Next.js.  
-- Explorar **IA local (LLMs)** integrada a bancos de dados para educação (**SIS88**) e automação de fluxos.  
 
 </details>
 
@@ -125,20 +125,21 @@ Atualmente, venho explorando **aplicações práticas de IA** em meus projetos:
 
 ### 💻 About Me
 Hi! I’m **Carlos Eduardo Melo**, a full-stack developer passionate about technology and innovation.  
-I have hands-on experience in **real-world production projects**, from corporate web platforms to online game servers, always aiming for **scalable, efficient solutions** with focus on clean code, UX, and product vision.  
+I have experience in several languages, frameworks, and infrastructure, focusing on building **effective, scalable, and production-ready solutions**.  
+I’ve worked on projects ranging from **corporate web platforms** to **online game servers**, always aiming to combine **technology, user experience, and business vision**.  
 
-I’m currently also exploring how to apply **local AI (LLMs)** in **education** and **online games**, bridging machine learning with practical solutions.
+I’m currently also researching how to apply **local AI (LLMs)** in **education** and **online games**, bridging machine learning with real-world solutions.
 
 ---
 
 ### 🛠 Skills
 **Programming Languages**
-- **Python**, **JavaScript/TypeScript**, **Node.js**, **PHP**, **Lua**, **Java**, **HTML & CSS**  
+- **Python**, **JavaScript & TypeScript**, **Node.js**, **PHP**, **Lua**, **Java**, **HTML & CSS**  
 
 **Frameworks & Libraries**
 - **NestJS**, **Next.js**, **Express.js**, **React**  
 - **TanStack Router**, **React Query**, **Zod**  
-- **Bootstrap, Tailwind CSS, Chakra UI**  
+- **Bootstrap & Tailwind CSS**, **Chakra UI**  
 
 **Infrastructure**
 - **PostgreSQL, MySQL, Prisma**  
@@ -151,28 +152,25 @@ I’m currently also exploring how to apply **local AI (LLMs)** in **education**
 ### 🌱 What I’m Learning
 - **Microservices** and **monorepos**  
 - **Cloud & DevOps** (CI/CD, containers, automation)  
-- Advanced **performance & security** techniques  
+- Advanced **performance and security** techniques  
 - **SaaS and monetization** with NestJS + Next.js  
 
 ---
 
 ### 📚 Featured Projects
-- **SIS88** — educational management platform (React + NestJS + Prisma + PostgreSQL) with modules for users, students, attendance, pedagogic profiles, automatic Pix payments and multi-tenant structure.  
-- **Genium OT** — OT Tibia server online for 10+ years with hundreds of players. Developed systems in **Lua + MySQL**, virtual economy, events, Pix payment integrations and Linux networking optimization.  
-- **Wedding Invitation Website** — interactive, responsive design with countdown, Pix gift list and animations.  
-- **SaaS Ecosystem** — full-stack architecture study for SaaS applications and monetization (NestJS + Next.js + Cloudflare).  
-- **Academic Sprint (Data Science)** — analysis of vaccination data and municipal GDP in Ceará (Brazil), using Python (Pandas/Matplotlib).  
-- **Scheduling System** — appointment platform with Node.js, React and Google Calendar integration.  
-- **Ad Traffic Manager** — application for Facebook/Instagram ad campaign management with official APIs.  
+- **SIS88** — educational management platform (React + NestJS + Prisma + PostgreSQL) with Pix payment integration and multi-tenant support.  
+- **Genium OT** — OT Tibia server online for 10+ years with hundreds of players. Developed systems in **Lua + MySQL**, balanced virtual economy, events, Pix payment integrations, and infrastructure optimization (Linux, Cloudflare, iptables).  
+- **SaaS Ecosystem** — full-stack architecture study for SaaS applications and monetization, using NestJS, Next.js, and Cloudflare.  
+- **Academic Sprint (Data Science)** — analysis of vaccination and municipal GDP in Ceará (Brazil) with Python (Pandas/Matplotlib), including ETL of IBGE and SI-PNI datasets.  
+- **Scheduling System** — appointment platform for small businesses using Node.js, React, and Google Calendar integration.  
+- **Ad Traffic Manager** — application to manage Facebook/Instagram ad campaigns with official API integrations.  
 
 ---
 
-### 📜 Certifications & Courses
-- [ ] **AWS Cloud Practitioner** – Amazon Web Services  
-- [ ] **Docker & Kubernetes Fundamentals** – Udemy  
-- [ ] **Modern JavaScript (ES6+)** – Alura  
-- [ ] **NestJS & Prisma Mastery** – Udemy  
-- [ ] **Advanced React** – Rocketseat  
+### 📊 Impact in Numbers
+- **Genium OT**: 10+ years online, hundreds of active daily players, thousands of weekly virtual transactions.  
+- **SIS88**: multi-tenant platform used in schools, with automated **Pix QR Code payments** and pedagogical tracking.  
+- **Personal Projects**: SaaS systems, digital invitations, and automation tools running in production.  
 
 ---
 
@@ -184,25 +182,28 @@ I’m currently also exploring how to apply **local AI (LLMs)** in **education**
 ---
 
 ### ⚡ Fun Fact
-Besides coding, I’m an **online gaming enthusiast**. My OT server **Genium OT** has been my living lab for years — combining coding, infrastructure and virtual economy management in a production environment with hundreds of active players.  
+Beyond technology, I’m passionate about **online games**. My custom OT server **Genium OT** has been my biggest practical lab, combining coding, infrastructure, and virtual economy management in a real environment with hundreds of active players.  
 
 ---
 
 ### 🚀 Innovation
-I’m currently exploring **practical applications of AI** in my projects:  
-- **Education:** local AI assistants (LLMs) to support teachers and track pedagogic history in **SIS88**.  
-- **Gaming:** AI integration to analyze player behavior and balance virtual economies in OT servers.  
-- **Automation:** leveraging local models to handle **sensitive data** securely, reducing dependency on cloud services.  
+I’m currently exploring **practical AI applications** in my projects:  
+- **Education:** local AI assistants (LLMs) to support teachers and track pedagogical history in **SIS88**.  
+- **Games:** AI integration to analyze player behavior and balance economies in OT servers.  
+- **Automation:** using local models to handle **sensitive data** securely, reducing dependency on cloud providers.  
+
+---
+
+### 🌎 Future Vision
+I aim to keep building solutions that bring together **technology, education, and entertainment**, exploring the real impact of **local AI** and **SaaS architectures** in digital communities.  
 
 ---
 
 ### 🎯 Roadmap
-- Release **advanced SIS88 modules** (financial & reporting).  
-- Migrate **Genium OT** infrastructure to multi-vps with load balancing.  
-- Develop **SaaS ecosystem MVP** with authentication, billing and multi-tenant dashboard.  
-- Grow skills in **Cloud (AWS/GCP)** with focus on scalability.  
-- Publish new **open-source projects** with NestJS/Next.js.  
-- Explore **local AI (LLMs)** integrated with databases for education (**SIS88**) and workflow automation.  
+- Migrate **Genium OT** systems to a more resilient infrastructure (multi-vps and load balancing).  
+- Develop **SaaS ecosystem MVP** with authentication, billing, and multi-tenant dashboard.  
+- Advance in **Cloud (AWS/GCP)** with a focus on scalability.  
+- Publish new **open-source projects** in NestJS/Next.js.  
 
 </details>
 
