@@ -1,6 +1,6 @@
 # Carlos Eduardo Melo  
 
-[🇧🇷 Português](#portugues) • [🇺🇸 English](#english)
+
 
 ---
 
