@@ -5,9 +5,28 @@
 ---
 
 <p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=carloseduardo-melo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/carloseduardo-melo?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/carloseduardo-melo?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
+
+  <!-- Code Stack -->
+  <a href="https://github.com/carloseduardo-melo" target="_blank">
+    <img src="https://img.shields.io/badge/Code-Python%20%7C%20JavaScript%20%7C%20Node.js-blue?style=flat&logo=code" alt="code stack" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/carloseduardo-melo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="linkedin badge" />
+  </a>
+
+  <!-- Portfolio / GeniumOT -->
+  <a href="https://geniumot.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-GeniumOT-green?style=flat&logo=firefox" alt="portfolio" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:cadu.c.melo99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="email" />
+  </a>
 </p>
 
 ---
