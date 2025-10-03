@@ -1,6 +1,6 @@
 # Carlos Eduardo Melo  
 
-[🇧🇷 Português](#-português) • [🇺🇸 English](#-english)
+[🇧🇷 Português](#portugues) • [🇺🇸 English](#english)
 
 ---
 
@@ -31,7 +31,8 @@
 
 ---
 
-## 🇧🇷 Português
+<details id="portugues">
+  <summary>🇧🇷 Português (clique para expandir)</summary>
 
 ### 💻 Sobre mim
 Olá! Eu sou **Carlos Eduardo Melo**, um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias linguagens e frameworks. Acredito no poder da tecnologia para transformar realidades e estou sempre aprendendo. Minha missão é criar **soluções eficazes e escaláveis** para problemas complexos.
@@ -65,9 +66,11 @@ Olá! Eu sou **Carlos Eduardo Melo**, um desenvolvedor apaixonado por tecnologia
 ### ⚡ Curiosidade
 Sou entusiasta de jogos online e adoro criar soluções para comunidades gamer — especialmente servidores customizados de **Tibia**!  
 
+</details>
+
 ---
 
-<details>
+<details id="english">
   <summary>🇺🇸 English (click to expand)</summary>
 
 ### 💻 About Me
