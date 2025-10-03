@@ -1,47 +1,108 @@
-# Carlos Eduardo Melo
+# Carlos Eduardo Melo  
 
-## 💻 About Me
-Olá! Eu sou Carlos Eduardo Melo, um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em diversas linguagens de programação e frameworks. Acredito no poder da tecnologia para transformar o mundo e estou sempre em busca de aprender algo novo. Minha principal missão é criar soluções eficazes e escaláveis que ajudem a resolver problemas complexos.
-
-## 🛠 Skills
-
-### Programming Languages:
-- **Python**: Desenvolvimento de scripts automatizados, APIs REST e ciência de dados.
-- **JavaScript**: Desenvolvimento frontend e backend com frameworks modernos.
-- **Node.js**: Criação de APIs rápidas e escaláveis, focando em performance.
-- **PHP**: Desenvolvimento web, sistemas dinâmicos e APIs.
-- **Lua**: Desenvolvimento de scripts para jogos e automação de tarefas.
-- **Java**: Aplicações robustas e escaláveis para web e mobile.
-- **HTML & CSS**: Criação de interfaces web modernas e responsivas.
-
-### Frameworks & Libraries:
-- **NestJS**: Arquitetura limpa e eficiente para o backend com Node.js.
-- **Next.js**: Desenvolvimento de aplicações React server-side rendering e estáticas.
-- **Express.js**: APIs robustas e performáticas.
-- **React**: Interfaces dinâmicas e performáticas para web.
-- **Bootstrap & Tailwind CSS**: Estilização rápida e eficiente para aplicações web.
-
-## 🌱 What I'm Learning
-Atualmente, estou focado em melhorar minhas habilidades em:
-- Arquitetura de micro serviços
-- Cloud computing e DevOps
-- Técnicas avançadas de otimização de performance para aplicações web
-
-## 📚 Projects
-Aqui estão alguns dos projetos nos quais trabalhei recentemente:
-- **Sistema de Agendamento**: Uma plataforma de agendamento para pequenos negócios utilizando Node.js, NestJS, React e integração com Google Calendar.
-- **Servidor OT Tibia**: Customização e desenvolvimento de scripts em Lua para servidores OT.
-- **Sistema de Gestão de Tráfego**: Uma aplicação para gerenciar campanhas de anúncios no Facebook e Instagram com integrações diretas à API.
-
-## 📫 How to Reach Me
-- **Email**: cadu.c.melo99@gmail.com
-- **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)
-- **GitHub**: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)
-
-## ⚡ Fun Fact
-Além de tecnologia, sou um grande entusiasta de jogos online e adoro criar soluções para comunidades de gaming, especialmente para servidores customizados de Tibia!
+[🇧🇷 Português](#-português) • [🇺🇸 English](#-english)
 
 ---
 
-"Em constante aprendizado, sempre buscando o próximo grande desafio!"
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=carloseduardo-melo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/carloseduardo-melo?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/carloseduardo-melo?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
+</p>
 
+---
+
+## 🇧🇷 Português
+
+### 💻 Sobre mim
+Olá! Eu sou **Carlos Eduardo Melo**, um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em várias linguagens e frameworks. Acredito no poder da tecnologia para transformar realidades e estou sempre aprendendo. Minha missão é criar **soluções eficazes e escaláveis** para problemas complexos.
+
+### 🛠 Skills
+
+**Linguagens de Programação**
+- **Python** — automações, APIs REST, ciência de dados  
+- **JavaScript** — front-end e back-end  
+- **Node.js** — APIs rápidas e escaláveis  
+- **PHP** — back-end web, sistemas dinâmicos  
+- **Lua** — scripts de jogo e automação  
+- **Java** — aplicações robustas  
+- **HTML & CSS** — interfaces modernas e responsivas  
+
+**Frameworks & Libraries**
+- **NestJS**, **Next.js**, **Express.js**, **React**  
+- **Bootstrap & Tailwind CSS**
+
+### 🌱 O que estou estudando
+- Arquitetura de **microsserviços**  
+- **Cloud computing** e **DevOps**  
+- Técnicas avançadas de **performance web**
+
+### 📚 Projetos
+- **Sistema de Agendamento** — plataforma com Node.js, **NestJS**, **React** e integração Google Calendar  
+- **Servidor OT Tibia** — customizações em **Lua** para servidores OT  
+- **Gestão de Tráfego** — campanhas Facebook/Instagram com APIs oficiais  
+
+### 📫 Contato
+- **Email**: cadu.c.melo99@gmail.com  
+- **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
+- **GitHub**: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
+
+### ⚡ Curiosidade
+Sou entusiasta de jogos online e adoro criar soluções para comunidades gamer — especialmente servidores customizados de **Tibia**!  
+
+---
+
+## 🇺🇸 English  
+
+### 💻 About Me
+Hi! I’m **Carlos Eduardo Melo**, a developer passionate about technology and innovation. I have experience with multiple languages and frameworks. I believe in the power of technology to transform lives and I’m always learning. My mission is to create **effective, scalable solutions** for complex problems.
+
+### 🛠 Skills
+
+**Programming Languages**
+- **Python** — automation, REST APIs, data science  
+- **JavaScript** — front-end and back-end  
+- **Node.js** — scalable APIs  
+- **PHP** — web back-end, APIs  
+- **Lua** — game scripting and automation  
+- **Java** — robust applications  
+- **HTML & CSS** — modern UIs  
+
+**Frameworks & Libraries**
+- **NestJS**, **Next.js**, **Express.js**, **React**  
+- **Bootstrap & Tailwind CSS**
+
+### 🌱 What I’m Learning
+- **Microservices architecture**  
+- **Cloud computing & DevOps**  
+- Advanced **web performance**  
+
+### 📚 Projects
+- **Scheduling System** — platform with Node.js, **NestJS**, **React**, Google Calendar  
+- **Tibia OT Server** — **Lua** scripting & customization  
+- **Ad Traffic Manager** — Facebook/Instagram campaigns with APIs  
+
+### 📫 How to Reach Me
+- **Email**: cadu.c.melo99@gmail.com  
+- **LinkedIn**: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
+- **GitHub**: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
+
+### ⚡ Fun Fact
+I’m an online-games enthusiast and love building tools for gaming communities — especially custom **Tibia** servers!  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carloseduardo-melo&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo-melo&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
+
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,nestjs,nextjs,react,php,lua,java,html,css,tailwind,bootstrap,postgresql,mysql,docker,linux,git" />
+</p>
