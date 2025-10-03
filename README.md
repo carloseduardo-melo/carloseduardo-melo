@@ -223,5 +223,13 @@ I aim to keep building solutions that bring together **technology, education, an
 ## [Tech Stack]  
 
 <p align="center">
+  <!-- Skillicons principais -->
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,nestjs,nextjs,react,php,lua,java,html,css,tailwind,bootstrap,postgresql,mysql,docker,linux,git" />
+  <br/>
+
+  <!-- Extras com Shields.io -->
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white" />
 </p>
