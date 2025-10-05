@@ -7,10 +7,10 @@
 
 ---
 
-## 🧭 **Highlights**
-💎 10+ anos mantendo **Genium OT (MMORPG Server)**  
-🏫 Construindo **SIS88 SaaS Multi-Tenant**  
-🧠 Explorando **IA Local, Blockchain e Dados aplicados a Educação & Games**
+## **Highlights**
+10+ anos mantendo **Genium OT (MMORPG Server)**  
+Construindo **SIS88 SaaS Multi-Tenant**  
+Explorando **IA Local, Blockchain e Dados aplicados a Educação & Games**
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 **Projetos em Destaque**
+## **Projetos em Destaque**
 
 - [**Genium OT**](https://geniumot.com) — servidor MMORPG customizado online há +10 anos, com economia virtual, eventos e mais de 100 jogadores simultâneos.  
 - **SIS88 (privado)** — plataforma SaaS de gestão educacional multi-tenant (React + NestJS + Prisma + PostgreSQL + Docker).  
@@ -34,7 +34,7 @@
 <details id="português">
 <summary>🇧🇷 <b>Português (clique para expandir)</b></summary>
 
-### 👨‍💻 **Sobre mim**
+### **Sobre mim**
 Sou **Full Stack & Blockchain Engineer**, atuando entre os ecossistemas **Web2 e Web3**.  
 Tenho experiência em **Python, Node.js, React, Lua, PHP, SQL e Docker**, criando soluções **escaláveis, seguras e orientadas por dados**, aplicadas tanto em **educação** quanto em **jogos online**.  
 
@@ -45,7 +45,7 @@ Atualmente, foco em **IA local, Web3 e Data Analytics** — conectando **educaç
 
 ---
 
-### 🧰 **Stack Principal**
+### **Stack Principal**
 **Linguagens:** Python • JavaScript • TypeScript • Node.js • PHP • Lua • Java • SQL  
 **Frameworks:** NestJS • Next.js • React • Prisma • Express.js  
 **Infraestrutura:** Docker • PostgreSQL • Cloudflare • GitHub Actions • Linux • VPS  
@@ -53,7 +53,7 @@ Atualmente, foco em **IA local, Web3 e Data Analytics** — conectando **educaç
 
 ---
 
-### 📚 **Atualmente estudando**
+### **Atualmente estudando**
 - Arquitetura de microsserviços e monorepos  
 - Cloud, DevOps e CI/CD  
 - Web3, Smart Contracts e Tokenização  
@@ -61,14 +61,14 @@ Atualmente, foco em **IA local, Web3 e Data Analytics** — conectando **educaç
 
 ---
 
-### ⚡ **Impacto**
+### **Impacto**
 - Genium OT: +10 anos online, estável sob DDoS, 100+ jogadores simultâneos.  
 - SIS88: automação Pix QR, controle pedagógico, arquitetura multi-tenant SaaS.  
 - Projetos pessoais: SaaS, convites digitais e pipelines de dados em produção.  
 
 ---
 
-### 📬 **Contato**
+### **Contato**
 - **Email:** cadu.c.melo99@gmail.com  
 - **LinkedIn:** [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
 - **GitHub:** [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
@@ -80,7 +80,7 @@ Atualmente, foco em **IA local, Web3 e Data Analytics** — conectando **educaç
 <details id="english">
 <summary>🇺🇸 <b>English (click to expand)</b></summary>
 
-### 👨‍💻 **About Me**
+### **About Me**
 I’m a **Full Stack & Blockchain Engineer** working across **Web2 and Web3 ecosystems**.  
 Skilled in **Python, Node.js, React, Lua, SQL, and Docker**, I build **scalable, secure, and data-driven solutions** for both **education** and **gaming** industries.  
 
@@ -91,7 +91,7 @@ Currently exploring **local AI, blockchain, and data analytics** to bridge educa
 
 ---
 
-### 🧰 **Tech Stack**
+### **Tech Stack**
 **Languages:** Python • JavaScript • TypeScript • Node.js • PHP • Lua • Java • SQL  
 **Frameworks:** NestJS • Next.js • React • Prisma • Express.js  
 **Infrastructure:** Docker • PostgreSQL • Cloudflare • GitHub Actions • Linux • VPS  
@@ -99,7 +99,7 @@ Currently exploring **local AI, blockchain, and data analytics** to bridge educa
 
 ---
 
-### 🧠 **Learning Focus**
+### **Learning Focus**
 - Web3 & Smart Contracts  
 - Data Analytics & Machine Learning  
 - Cloud Infrastructure & DevOps  
@@ -107,14 +107,14 @@ Currently exploring **local AI, blockchain, and data analytics** to bridge educa
 
 ---
 
-### ⚡ **Impact**
+### **Impact**
 - Genium OT: 10+ years online, DDoS resilient, 100+ concurrent players.  
 - SIS88: automated Pix billing, educational analytics, multi-tenant SaaS.  
 - Personal Projects: SaaS systems, analytics tools, and decentralized integrations.  
 
 ---
 
-### 📬 **Contact**
+### **Contact**
 - **Email:** cadu.c.melo99@gmail.com  
 - **LinkedIn:** [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
 - **GitHub:** [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
@@ -123,7 +123,7 @@ Currently exploring **local AI, blockchain, and data analytics** to bridge educa
 
 ---
 
-## 📊 **GitHub Stats**
+## **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carloseduardo-melo&show_icons=true&theme=tokyonight" alt="stats" />
@@ -132,7 +132,7 @@ Currently exploring **local AI, blockchain, and data analytics** to bridge educa
 
 ---
 
-## ⚙️ **Tech Stack**
+## **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,nestjs,nextjs,react,php,lua,java,html,css,tailwind,bootstrap,postgresql,mysql,docker,linux,git" />
