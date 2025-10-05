@@ -1,234 +1,129 @@
-# Carlos Eduardo Melo  
+# **Full Stack & Blockchain Engineer | Web2 + Web3 Development | Node.js, React, Lua, Python, SQL, Solidity, Docker, Tokenização, Data Analytics**
+## **Carlos Eduardo Melo**
 
-**Full-Stack Developer | SaaS | Cloud | AI applied to Education & Gaming**
+**Full-Stack Developer | SaaS | Cloud | AI applied to Education, Gaming & Blockchain**
 
-[🇧🇷 Português](#portugues) • [🇺🇸 English](#english)
+[🇧🇷 Português](#português) • [🇺🇸 English](#english)
 
 ---
 
-## [Highlights]  
-10+ anos rodando Genium OT | Construindo SIS88 SaaS multi-tenant | AI aplicada em Educação & Games  
+## 🧭 **Highlights**
+💎 10+ anos mantendo **Genium OT (MMORPG Server)**  
+🏫 Construindo **SIS88 SaaS Multi-Tenant**  
+🧠 Explorando **IA Local, Blockchain e Dados aplicados a Educação & Games**
 
 ---
 
 <p align="center">
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=carloseduardo-melo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
-  <!-- Code Stack -->
-  <a href="https://github.com/carloseduardo-melo" target="_blank">
-    <img src="https://img.shields.io/badge/Code-Python%20%7C%20JavaScript%20%7C%20Node.js-blue?style=flat&logo=code" alt="code stack" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/carloseduardo-melo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="linkedin badge" />
-  </a>
-
-  <!-- Portfolio / GeniumOT -->
-  <a href="https://geniumot.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-GeniumOT-green?style=flat&logo=firefox" alt="portfolio" />
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:cadu.c.melo99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="email" />
-  </a>
+  <a href="https://www.linkedin.com/in/carloseduardo-melo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="linkedin badge" /></a>
+  <a href="https://geniumot.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-GeniumOT-green?style=flat&logo=firefox" alt="portfolio" /></a>
+  <a href="mailto:cadu.c.melo99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="email" /></a>
 </p>
 
 ---
 
-## [Projetos em Destaque]  
+## 🚀 **Projetos em Destaque**
 
-- [Genium OT](https://geniumot.com) — servidor OT Tibia online há +10 anos, com centenas de jogadores ativos.  
-- **SIS88 (privado)** — plataforma SaaS de gestão educacional multi-tenant (React + NestJS + Prisma + PostgreSQL).  
-- **Academic Sprint (privado)** — análise de dados (vacinação + PIB) com Python/Pandas e ETL do IBGE + SI-PNI.  
-
----
-
-<details id="portugues">
-  <summary>🇧🇷 Português (clique para expandir)</summary>
-
-### [Sobre mim]
-Olá! Eu sou **Carlos Eduardo Melo**, desenvolvedor full-stack apaixonado por tecnologia e inovação.  
-Tenho experiência em diversas linguagens, frameworks e infraestrutura, com foco em criar **soluções eficazes, escaláveis e usadas na prática**.  
-Trabalho em projetos que vão desde **plataformas web corporativas** até **servidores de jogos online**, sempre buscando unir **tecnologia, experiência do usuário e visão de negócio**.  
-
-Atualmente também pesquiso formas de aplicar **IA local (LLMs)** em **educação** e **jogos online**, conectando aprendizado de máquina com soluções do mundo real.
+- [**Genium OT**](https://geniumot.com) — servidor MMORPG customizado online há +10 anos, com economia virtual, eventos e mais de 100 jogadores simultâneos.  
+- **SIS88 (privado)** — plataforma SaaS de gestão educacional multi-tenant (React + NestJS + Prisma + PostgreSQL + Docker).  
+- **Academic Sprint** — análise de dados (vacinação + PIB) com Python/Pandas, ETL do IBGE e SI-PNI.  
 
 ---
 
-### [Skills]
-**Linguagens de Programação**  
-- Python, JavaScript & TypeScript, Node.js, PHP, Lua, Java, HTML & CSS  
+<details id="português">
+<summary>🇧🇷 <b>Português (clique para expandir)</b></summary>
 
-**Frameworks & Libraries**  
-- NestJS, Next.js, Express.js, React  
-- TanStack Router, React Query, Zod  
-- Bootstrap & Tailwind CSS, Chakra UI  
+### 👨‍💻 **Sobre mim**
+Sou **Full Stack & Blockchain Engineer**, atuando entre os ecossistemas **Web2 e Web3**.  
+Tenho experiência em **Python, Node.js, React, Lua, PHP, SQL e Docker**, criando soluções **escaláveis, seguras e orientadas por dados**, aplicadas tanto em **educação** quanto em **jogos online**.  
 
-**Infraestrutura**  
-- PostgreSQL, MySQL, Prisma  
-- Docker, GitHub Actions, Linux  
-- Cloudflare, VPS, iptables  
-- Integrações Pix/APIs  
+No setor educacional, desenvolvi **dashboards e automações** que reduziram em até **30% o tempo de processos administrativos**, e sistemas que processam **10k+ registros/mês**.  
+No mundo gamer, mantenho **Genium OT**, um servidor ativo há mais de **10 anos**, com **centenas de jogadores simultâneos** e integrações com **tokenização e blockchain**.  
+
+Atualmente, foco em **IA local, Web3 e Data Analytics** — conectando **educação, jogos e tecnologia descentralizada** em soluções reais.
 
 ---
 
-### [O que estou estudando]
+### 🧰 **Stack Principal**
+**Linguagens:** Python • JavaScript • TypeScript • Node.js • PHP • Lua • Java • SQL  
+**Frameworks:** NestJS • Next.js • React • Prisma • Express.js  
+**Infraestrutura:** Docker • PostgreSQL • Cloudflare • GitHub Actions • Linux • VPS  
+**Tecnologias Avançadas:** Tokenização • Solidity • Blockchain • Data Analytics • Pix/API integrations  
+
+---
+
+### 📚 **Atualmente estudando**
 - Arquitetura de microsserviços e monorepos  
-- Cloud & DevOps (CI/CD, containers, automações)  
-- Técnicas avançadas de performance e segurança  
-- SaaS com NestJS + Next.js  
+- Cloud, DevOps e CI/CD  
+- Web3, Smart Contracts e Tokenização  
+- IA Local aplicada a SaaS e Games  
 
 ---
 
-### [Projetos em Destaque]
-- **SIS88** — plataforma de gestão educacional (React + NestJS + Prisma + PostgreSQL) com módulos, integração Pix automática e multi-tenant.  
-- **Genium OT** — servidor OT Tibia ativo há +10 anos, com centenas de jogadores. Desenvolvimento de sistemas em Lua + MySQL, economia virtual balanceada, eventos, integrações técnicas (Pix/APIs) e otimização de rede/infraestrutura (Linux, Cloudflare, iptables).  
-- **Ecossistema SaaS** — estudo de arquitetura full-stack para aplicações SaaS, unindo NestJS, Next.js e Cloudflare.  
-- **Sprint Acadêmico (Data Science)** — análise de vacinação e PIB municipal do Ceará com Python (Pandas/Matplotlib), envolvendo ETL de dados do IBGE e SI-PNI.  
-- **Sistema de Agendamento** — plataforma para pequenos negócios com Node.js, React e integração Google Calendar.  
-- **Sistema de Gestão de Tráfego** — aplicação para gerenciar campanhas de anúncios no Facebook/Instagram com API oficial.  
+### ⚡ **Impacto**
+- Genium OT: +10 anos online, estável sob DDoS, 100+ jogadores simultâneos.  
+- SIS88: automação Pix QR, controle pedagógico, arquitetura multi-tenant SaaS.  
+- Projetos pessoais: SaaS, convites digitais e pipelines de dados em produção.  
 
 ---
 
-### [Impacto em Números]
-- Genium OT: +10 anos online, centenas de jogadores ativos diariamente, milhares de transações virtuais por semana.  
-- SIS88: plataforma multi-tenant aplicada em escolas, com automação de pagamentos via Pix QR Code e controle pedagógico.  
-- Projetos pessoais: sistemas SaaS, convites digitais e ferramentas de automação em produção real.  
-
----
-
-### [Minha Jornada]
-Comecei programando em **Lua** para jogos online.  
-O que era hobby virou um laboratório prático: servidores customizados, otimização de infraestrutura e comunidades reais.  
-Hoje aplico esse aprendizado em **SaaS, cloud e IA aplicada em educação e games**.  
-
----
-
-### [Contato]
-- Email: cadu.c.melo99@gmail.com  
-- LinkedIn: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
-- GitHub: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
-
----
-
-### [Inovação]
-Atualmente, venho explorando **aplicações práticas de IA** em meus projetos:  
-- Educação: assistentes virtuais locais (LLMs) para apoiar professores e registrar histórico pedagógico no SIS88.  
-- Games: integração de IA para análise de comportamento de jogadores e balanceamento de economia em servidores OT.  
-- Automação: uso de modelos locais para processar dados sensíveis com mais segurança, sem depender 100% da nuvem.  
-
----
-
-### [Visão de Futuro]
-Quero continuar desenvolvendo soluções que unam **tecnologia, educação e entretenimento**, explorando o impacto real de **IA local** e **arquiteturas SaaS** em comunidades digitais.  
-
----
-
-### [Roadmap]
-- Migrar sistemas do Genium OT para infraestrutura mais resiliente (multi-vps e load balancing).  
-- Desenvolver MVP do Ecossistema SaaS com autenticação, billing e painel multi-tenant.  
-- Evoluir em Cloud (AWS/GCP) com foco em escalabilidade.  
-- Publicar novos projetos open-source em NestJS/Next.js.  
+### 📬 **Contato**
+- **Email:** cadu.c.melo99@gmail.com  
+- **LinkedIn:** [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
+- **GitHub:** [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
 
 </details>
 
 ---
 
 <details id="english">
-  <summary>🇺🇸 English (click to expand)</summary>
+<summary>🇺🇸 <b>English (click to expand)</b></summary>
 
-### [About Me]
-Hi! I’m **Carlos Eduardo Melo**, a full-stack developer passionate about technology and innovation.  
-I have experience in several languages, frameworks, and infrastructure, focusing on building **effective, scalable, and production-ready solutions**.  
-I’ve worked on projects ranging from **corporate web platforms** to **online game servers**, always aiming to combine **technology, user experience, and business vision**.  
+### 👨‍💻 **About Me**
+I’m a **Full Stack & Blockchain Engineer** working across **Web2 and Web3 ecosystems**.  
+Skilled in **Python, Node.js, React, Lua, SQL, and Docker**, I build **scalable, secure, and data-driven solutions** for both **education** and **gaming** industries.  
 
-I’m currently also researching how to apply **local AI (LLMs)** in **education** and **online games**, bridging machine learning with real-world solutions.
+In education, I’ve developed **dashboards and automations** that cut administrative time by **30%**, handling over **10k monthly records**.  
+In gaming, I maintain **Genium OT**, an online MMORPG server running for **10+ years**, with **hundreds of concurrent players**, tokenized systems, and blockchain integrations.  
 
----
-
-### [Skills]
-**Programming Languages**  
-- Python, JavaScript & TypeScript, Node.js, PHP, Lua, Java, HTML & CSS  
-
-**Frameworks & Libraries**  
-- NestJS, Next.js, Express.js, React  
-- TanStack Router, React Query, Zod  
-- Bootstrap & Tailwind CSS, Chakra UI  
-
-**Infrastructure**  
-- PostgreSQL, MySQL, Prisma  
-- Docker, GitHub Actions, Linux  
-- Cloudflare, VPS, iptables  
-- Pix/API integrations  
+Currently exploring **local AI, blockchain, and data analytics** to bridge education, gaming, and decentralized tech.
 
 ---
 
-### [What I’m Learning]
-- Microservices and monorepos  
-- Cloud & DevOps (CI/CD, containers, automation)  
-- Advanced performance and security techniques  
-- SaaS with NestJS + Next.js  
+### 🧰 **Tech Stack**
+**Languages:** Python • JavaScript • TypeScript • Node.js • PHP • Lua • Java • SQL  
+**Frameworks:** NestJS • Next.js • React • Prisma • Express.js  
+**Infrastructure:** Docker • PostgreSQL • Cloudflare • GitHub Actions • Linux • VPS  
+**Advanced Technologies:** Tokenization • Solidity • Blockchain • Data Analytics • Pix/API integrations  
 
 ---
 
-### [Featured Projects]
-- **SIS88** — educational management platform (React + NestJS + Prisma + PostgreSQL) with Pix payment integration and multi-tenant support.  
-- **Genium OT** — OT Tibia server online for 10+ years with hundreds of players. Developed systems in Lua + MySQL, balanced virtual economy, events, technical integrations (Pix/APIs), and infrastructure optimization (Linux, Cloudflare, iptables).  
-- **SaaS Ecosystem** — full-stack architecture study for SaaS applications, using NestJS, Next.js, and Cloudflare.  
-- **Academic Sprint (Data Science)** — analysis of vaccination and municipal GDP in Ceará (Brazil) with Python (Pandas/Matplotlib), including ETL of IBGE and SI-PNI datasets.  
-- **Scheduling System** — appointment platform for small businesses using Node.js, React, and Google Calendar integration.  
-- **Ad Traffic Manager** — application to manage Facebook/Instagram ad campaigns with official API integrations.  
+### 🧠 **Learning Focus**
+- Web3 & Smart Contracts  
+- Data Analytics & Machine Learning  
+- Cloud Infrastructure & DevOps  
+- SaaS and decentralized ecosystems  
 
 ---
 
-### [Impact in Numbers]
-- Genium OT: 10+ years online, hundreds of active daily players, thousands of weekly virtual transactions.  
-- SIS88: multi-tenant platform used in schools, with automated Pix QR Code payments and pedagogical tracking.  
-- Personal Projects: SaaS systems, digital invitations, and automation tools running in production.  
+### ⚡ **Impact**
+- Genium OT: 10+ years online, DDoS resilient, 100+ concurrent players.  
+- SIS88: automated Pix billing, educational analytics, multi-tenant SaaS.  
+- Personal Projects: SaaS systems, analytics tools, and decentralized integrations.  
 
 ---
 
-### [My Journey]
-I started coding in **Lua** for online games.  
-What began as a hobby turned into a practical lab: custom servers, infrastructure optimization, and real communities.  
-Today I apply this learning in **SaaS, cloud, and AI applied to education and gaming**.  
-
----
-
-### [How to Reach Me]
-- Email: cadu.c.melo99@gmail.com  
-- LinkedIn: [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
-- GitHub: [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
-
----
-
-### [Innovation]
-I’m currently exploring **practical AI applications** in my projects:  
-- Education: local AI assistants (LLMs) to support teachers and track pedagogical history in SIS88.  
-- Games: AI integration to analyze player behavior and balance economies in OT servers.  
-- Automation: using local models to handle sensitive data securely, reducing dependency on cloud providers.  
-
----
-
-### [Future Vision]
-I aim to keep building solutions that bring together **technology, education, and entertainment**, exploring the real impact of **local AI** and **SaaS architectures** in digital communities.  
-
----
-
-### [Roadmap]
-- Migrate Genium OT systems to a more resilient infrastructure (multi-vps and load balancing).  
-- Develop SaaS ecosystem MVP with authentication, billing, and multi-tenant dashboard.  
-- Advance in Cloud (AWS/GCP) with a focus on scalability.  
-- Publish new open-source projects in NestJS/Next.js.  
+### 📬 **Contact**
+- **Email:** cadu.c.melo99@gmail.com  
+- **LinkedIn:** [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
+- **GitHub:** [@CarlosEduardoMelo](https://github.com/carloseduardo-melo)  
 
 </details>
 
 ---
 
-## [GitHub Stats]  
+## 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carloseduardo-melo&show_icons=true&theme=tokyonight" alt="stats" />
@@ -237,20 +132,13 @@ I aim to keep building solutions that bring together **technology, education, an
 
 ---
 
-## [Tech Stack]  
+## ⚙️ **Tech Stack**
 
 <p align="center">
-  <!-- Skillicons principais -->
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,nestjs,nextjs,react,php,lua,java,html,css,tailwind,bootstrap,postgresql,mysql,docker,linux,git" />
   <br/>
-
-  <!-- Extras com Shields.io -->
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white" />
 </p>
-
----
-
-
