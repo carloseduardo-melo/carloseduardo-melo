@@ -102,11 +102,7 @@ Currently, I am deepening my technical expertise through a degree in **Data Scie
 
 </details>
 
----
 
-
-
----
 
 ## **Tech Stack**
 
