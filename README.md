@@ -104,12 +104,7 @@ Currently, I am deepening my technical expertise through a degree in **Data Scie
 
 ---
 
-## **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carloseduardo-melo&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo-melo&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
 
 ---
 
