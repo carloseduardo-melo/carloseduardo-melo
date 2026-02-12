@@ -26,7 +26,7 @@
 
 ## **Projetos em Destaque**
 
-- [**Genium Projects (SRE & Infra)**](https://geniumot.com) — Sistema distribuído de tempo real (*Stateful*) online há +5 anos. Atuação em **Linux, Segurança, Otimização C++/Lua** e mitigação de crises.
+- [**Genium Projects (SRE & Infra)**](https://geniumot.com.br) — Sistema distribuído de tempo real (*Stateful*) online há +5 anos. Atuação em **Linux, Segurança, Otimização C++/Lua** e mitigação de crises.
 - **SIS88 (SaaS EdTech)** — Plataforma de gestão educacional Multi-Tenant. **Node.js (NestJS), React, Docker e PostgreSQL**. Automação de processos financeiros e acadêmicos.
 - **Data Science Portfolio** — Estudos acadêmicos e práticos em **Python (Pandas, Scikit-learn)** focados em ETL, Estatística e Visualização de Dados.
 
