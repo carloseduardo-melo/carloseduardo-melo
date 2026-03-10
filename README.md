@@ -1,68 +1,150 @@
-# **Senior Backend Engineer | Data-Intensive Applications | High Availability Specialist**
-## **Carlos Eduardo Melo**
+# Backend & Infrastructure Engineer | Distributed Systems | High Availability
+## Carlos Eduardo Melo
 
-**Python, Node.js & SQL | Linux & AWS | Building Scalable SaaS & Real-Time Systems**
+**Python & Node.js | Linux Infrastructure | AWS | Building Scalable SaaS & Real-Time Systems**
 
-[🇧🇷 Português](#português) • [🇺🇸 English](#english)
+🇧🇷 [Português](#português) • 🇺🇸 [English](#english)
 
 ---
 
-## **Highlights**
-🚀 **High Availability:** Gestão de sistemas distribuídos (Linux/C++) com **99.9% de uptime** e mitigação de DDoS.  
-📊 **Data Engineering:** Pipelines ETL e Dashboards processando **10k+ registros/mês**.  
-🏗️ **SaaS Architecture:** Co-Founder/Lead na **SIS 88**, reduzindo custos operacionais em **30%**.  
-🎓 **Academic Focus:** Graduando em **Ciência de Dados & IA** (Machine Learning, NLP, Estatística).
+## Highlights
+
+⚙️ **Distributed Systems:** Experiência prática operando sistemas em tempo real com usuários simultâneos e alta concorrência.
+
+🚀 **High Availability:** Gestão de infraestrutura Linux com **99.9% uptime**, mitigação de **DDoS** e resposta a incidentes.
+
+📊 **Data Engineering:** Desenvolvimento de pipelines e dashboards analíticos processando **milhares de registros mensalmente**.
+
+🏗️ **SaaS Architecture:** Co-Founder e Lead Engineer na **SIS88**, desenvolvendo plataforma educacional que reduziu **30% do tempo operacional** dos clientes.
+
+🎓 **Academic Focus:** Graduação em **Ciência de Dados & IA**, com foco em **Machine Learning, Estatística e Engenharia de Dados**.
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=carloseduardo-melo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/carloseduardo-melo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="linkedin badge" /></a>
-  <a href="https://geniumot.com" target="_blank"><img src="https://img.shields.io/badge/Live_Project-Genium-green?style=flat&logo=linux" alt="portfolio" /></a>
-  <a href="mailto:cadu.c.melo99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/carloseduardo-melo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://geniumot.com" target="_blank"><img src="https://img.shields.io/badge/Live_Project-Genium-green?style=flat&logo=linux" /></a>
+  <a href="mailto:cadu.c.melo99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
 </p>
 
 ---
 
-## **Projetos em Destaque**
+# Featured Projects
 
-- [**Genium Projects (SRE & Infra)**](https://geniumot.com.br) — Sistema distribuído de tempo real (*Stateful*) online há +5 anos. Atuação em **Linux, Segurança, Otimização C++/Lua** e mitigação de crises.
-- **SIS88 (SaaS EdTech)** — Plataforma de gestão educacional Multi-Tenant. **Node.js (NestJS), React, Docker e PostgreSQL**. Automação de processos financeiros e acadêmicos.
-- **Data Science Portfolio** — Estudos acadêmicos e práticos em **Python (Pandas, Scikit-learn)** focados em ETL, Estatística e Visualização de Dados.
+## Genium Projects — Infrastructure & Real-Time Systems
+
+Real-time distributed system operating online for **5+ years**.
+
+### Main contributions
+
+- Linux server administration and infrastructure stability
+- Performance optimization in **C++ and Lua**
+- Mitigation of **DDoS attacks using Cloudflare**
+- Monitoring and incident response in production
+- Optimization of CPU and memory usage in high concurrency environments
+
+---
+
+## SIS88 — Multi-Tenant EdTech SaaS
+
+Educational management platform focused on automation and operational efficiency.
+
+### Stack
+
+Node.js (NestJS) • React • Docker • PostgreSQL
+
+### Key contributions
+
+- Backend architecture based on **microservices**
+- Automation of financial and academic workflows
+- API integrations with **Google Calendar and external services**
+- Analytical dashboards supporting **data-driven decisions**
+
+**Result**
+
+30% reduction in operational workload for institutions
+
+---
+
+## Data Science Portfolio
+
+Experiments and academic studies in:
+
+- Python
+- Pandas
+- Scikit-learn
+- ETL pipelines
+- Statistical analysis
+- Data visualization
+
+---
+
+# Architecture Experience
+
+- Microservices Architecture  
+- Distributed Systems Design  
+- High Availability Infrastructure  
+- API Design & Integration  
+- Real-Time Systems  
+- Infrastructure Monitoring  
+- Incident Response & Debugging  
 
 ---
 
 <details id="português">
 <summary>🇧🇷 <b>Português (clique para expandir)</b></summary>
 
-### **Sobre mim**
-Sou **Engenheiro de Software Sênior** com foco em **Backend, Infraestrutura e Dados**.  
-Minha especialidade é construir e manter sistemas que não podem falhar. Tenho sólida experiência prática gerenciando **ambientes Linux de alta disponibilidade**, lidando com milhares de conexões simultâneas e protegendo aplicações contra ataques massivos.
+## Sobre mim
 
-Na **SIS 88**, atuo como Engenheiro Líder, onde desenhei uma arquitetura de microsserviços que processa milhares de registros mensais, gerando impacto direto na eficiência do cliente (**30% de redução em tempo operacional**).
+Sou **Engenheiro de Software** com foco em **Backend, Infraestrutura e Sistemas Distribuídos**.
 
-Atualmente, estou expandindo minha expertise técnica através da graduação em **Banco de Dados e Ciência de Dados**, unindo a engenharia de software "mão na massa" com fundamentos avançados de **Estatística, Machine Learning e Governança de TI**.
+Tenho experiência prática operando sistemas que exigem **alta disponibilidade**, gerenciando ambientes Linux críticos, lidando com **alta concorrência**, monitoramento de infraestrutura e mitigação de incidentes em produção.
 
----
+Na **SIS88**, atuo como **Engenheiro Líder**, onde projetei uma arquitetura baseada em microsserviços para uma plataforma SaaS educacional que automatiza processos administrativos e financeiros, reduzindo **30% do tempo operacional das instituições atendidas**.
 
-### **Stack Principal**
-**Core Backend:** Python • Node.js • TypeScript • NestJS • SQL • Lua  
-**Infra & SRE:** Linux (Advanced) • Docker • AWS • Cloudflare • CI/CD • Bash Scripting  
-**Data & AI:** Pandas • ETL Pipelines • Data Modeling • Machine Learning Concepts  
-**Outros:** React • Microsserviços • API Design • Segurança de Redes  
+Também possuo experiência com **sistemas em tempo real**, otimização de performance e segurança de infraestrutura.
+
+Atualmente estou expandindo minha formação em **Ciência de Dados e IA**, unindo engenharia de software com **estatística, machine learning e engenharia de dados**.
 
 ---
 
-### **Impacto Real**
-- **Resiliência:** Manutenção de servidores online 24/7 com uptime de 99.9% sob condições adversas de rede.
-- **Escalabilidade:** Arquitetura de banco de dados otimizada para alto volume de leitura/escrita.
-- **Negócio:** Transformação de processos manuais em automações inteligentes via API.
+## Stack Principal
+
+**Backend**
+
+Python • Node.js • TypeScript • NestJS • SQL • Lua
+
+**Infraestrutura**
+
+Linux (Advanced) • Docker • AWS • Cloudflare • CI/CD • Bash
+
+**Dados**
+
+Pandas • ETL Pipelines • Data Modeling • Machine Learning Concepts
+
+**Outros**
+
+React • Microsserviços • API Design • Segurança de Redes
 
 ---
 
-### **Contato**
-- **LinkedIn:** [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
-- **Email:** cadu.c.melo99@gmail.com  
+## Impacto Técnico
+
+- **Alta disponibilidade:** Infraestrutura operando 24/7 com **99.9% de uptime**
+- **Escalabilidade:** Sistemas distribuídos suportando alta concorrência
+- **Automação:** Transformação de processos manuais em workflows automatizados
+- **Resiliência:** Monitoramento contínuo e resposta a incidentes
+
+---
+
+## Contato
+
+LinkedIn  
+https://www.linkedin.com/in/carloseduardo-melo/
+
+Email  
+cadu.c.melo99@gmail.com
 
 </details>
 
@@ -71,40 +153,62 @@ Atualmente, estou expandindo minha expertise técnica através da graduação em
 <details id="english">
 <summary>🇺🇸 <b>English (click to expand)</b></summary>
 
-### **About Me**
-I am a **Senior Backend Engineer** focused on **High Availability, Infrastructure, and Data-Intensive Applications**.  
-My expertise lies in building and maintaining resilient systems. I have solid practical experience managing **critical Linux environments**, handling thousands of concurrent connections, and mitigating massive DDoS attacks.
+## About Me
 
-As a Lead Engineer at **SIS 88**, I designed a microservices architecture that processes thousands of monthly records, directly impacting client efficiency (**30% reduction in operational time**).
+Backend & Infrastructure Engineer focused on **distributed systems, high availability, and data-intensive applications**.
 
-Currently, I am deepening my technical expertise through a degree in **Data Science & Database Technology**, bridging the gap between robust software engineering and advanced concepts in **Statistics, Machine Learning, and IT Governance**.
+I have hands-on experience managing **critical Linux environments**, operating real-time systems with concurrent users, optimizing backend performance, and mitigating infrastructure incidents.
 
----
+As a Lead Engineer at **SIS88**, I designed a **microservices-based architecture** powering an educational SaaS platform that automated institutional workflows and reduced operational workload by **30%**.
 
-### **Tech Stack**
-**Core Backend:** Python • Node.js • TypeScript • NestJS • SQL • Lua  
-**Infra & SRE:** Linux (Advanced) • Docker • AWS • Cloudflare • CI/CD • Bash Scripting  
-**Data & AI:** Pandas • ETL Pipelines • Data Modeling • Machine Learning Concepts  
-**Others:** React • Microservices • API Design • Network Security  
+I also work with **real-time systems**, infrastructure monitoring, and performance optimization.
+
+Currently expanding my expertise through studies in **Data Science & Artificial Intelligence**, combining practical software engineering with foundations in **statistics, machine learning, and data engineering**.
 
 ---
 
-### **Key Impact**
-- **Resilience:** Maintaining servers online 24/7 with 99.9% uptime under adverse network conditions.
-- **Scalability:** Database architecture optimized for high read/write volumes.
-- **Business Value:** Transforming manual processes into intelligent API-driven automations.
+## Main Stack
+
+**Backend**
+
+Python • Node.js • TypeScript • NestJS • SQL • Lua
+
+**Infrastructure**
+
+Linux (Advanced) • Docker • AWS • Cloudflare • CI/CD • Bash
+
+**Data**
+
+Pandas • ETL pipelines • Data modeling • Machine Learning concepts
+
+**Other**
+
+React • Microservices • API Design • Network security
 
 ---
 
-### **Contact**
-- **LinkedIn:** [Carlos Eduardo Melo](https://www.linkedin.com/in/carloseduardo-melo/)  
-- **Email:** cadu.c.melo99@gmail.com  
+## Technical Impact
+
+- **High availability:** Infrastructure maintained with **99.9% uptime**
+- **Scalability:** Distributed systems designed for concurrent workloads
+- **Automation:** API-driven workflows replacing manual processes
+- **Resilience:** Monitoring, debugging and incident response in production
+
+---
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/carloseduardo-melo/
+
+Email  
+cadu.c.melo99@gmail.com
 
 </details>
 
+---
 
-
-## **Tech Stack**
+# Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,typescript,javascript,lua,java,php" />
